@@ -11,7 +11,6 @@
   },
   "permissions": [
     "scripting",
-    "tabs",
     "webNavigation"
   ],
   "host_permissions": ["https://github.com/*"]
